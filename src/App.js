@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import CardList from "./components/CardList";
 import { robots } from "./components/robots";
 import SearchBox from "./components/SearchBox";
+import './App.css'
 
 class App extends Component  {
     constructor() {
